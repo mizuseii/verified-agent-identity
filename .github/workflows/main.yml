@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: lalan
 
 on:
   workflow_dispatch:
